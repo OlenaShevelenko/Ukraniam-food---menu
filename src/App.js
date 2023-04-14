@@ -17,7 +17,6 @@ function App() {
         <div >
           <AllCtegories/>
         </div>    
-        <p></p>    
         <Cart/>
       </div>
       <div className='box'>
